@@ -207,14 +207,6 @@
 
 ---
 
-## البناء والتشغيل
-
-```bash
-# متطلبات: .NET 8 SDK على ويندوز
-dotnet build ScreenX.csproj -c Release
-
-# تشغيل
-dotnet run --project ScreenX.csproj
 ```
 
 > راجع [README.md](README.md) لوصف بنية المشروع وتدفّق العمل.
