@@ -1,4 +1,5 @@
 <div dir="rtl" align="right">
+بسم الله الرحمن الرحيم
 
 # ScreenX
 
